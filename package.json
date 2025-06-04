@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "base": "/TP6__Citas_Con_Persistencia/",
-  "homepage": "https://github.com/UriSmu/TP6__Citas_Con_Persistencia.git",
+  "homepage": "https://urismu.github.io/TP6__Citas_Con_Persistencia/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
